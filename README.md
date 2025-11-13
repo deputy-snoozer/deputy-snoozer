@@ -21,4 +21,4 @@ I like to design and build whatever projects pique my curiosity! I'm gonna start
 
 Right now I'm working with Blazor, React, and .NET (✿◠‿◠)
 
-I'm currently learning .NET MAUI and Rust (\\|) ._. (|/) <-- (crab)
+I'm currently learning .NET MAUI and Rust ₘ(\\|)._.(|/)ₘ <-- (crab)
