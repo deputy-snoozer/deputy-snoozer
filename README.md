@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there ヾ(^▽^*)
 
 <!--
 **deputy-snoozer/deputy-snoozer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Alex, a software engineer based in the UK.
+
+I like to design and build whatever projects pique my curiosity! I'm gonna start adding any new projects here on GitHub ^_^
+
+Right now I'm working with Blazor, React, and .NET (✿◠‿◠)
+
+I'm currently learning .NET MAUI and Rust (\\|) ._. (|/) <-- (crab)
